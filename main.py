@@ -1,7 +1,11 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
+
+exit()
+"""
 # import sys
+
 
 from configuration import *
 from plugin import *
@@ -27,7 +31,7 @@ while True:
         start(cmd)
 # print(sys.argv)
 events(cmd)  # отвечает за: выход, перезапуск, ошибку и прочие события
-
+"""
 # особые события: или же вопросы и функции
 """
     переместить файл, пытаться переместить файл, и прочие...
