@@ -1,0 +1,22 @@
+
+# cache:
+
+
+# os.system("python test.py")
+
+# os.system(r"cd /run/media/cytoncode/GIT/html")
+# os.play('./index.html')
+# cmd = ""
+# cmd = "reboot"
+
+
+# cd /run/media/cytoncode/GIT/html/
+
+# os.system("python main.py")
+
+
+# import thread
+
+# print(sys.argv)
+# print(__file__)
+# print(sys.executable)
