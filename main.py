@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
+# default start:
+console = True
+scripts = True  # tmp! default = False
+
+
 
 exit()
 """
